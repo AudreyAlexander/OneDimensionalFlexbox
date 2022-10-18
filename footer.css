@@ -1,0 +1,28 @@
+
+body {
+  margin: 0px;
+}
+
+.footer {
+  height: 150px;
+  background-color: lightgrey;
+  display: flex;
+  flex-direction: center;
+  justify-content: space-evenly;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.info {
+  font-size: 10px;
+}
+
+.item {
+  padding: 15px;
+  width: 150px;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif ;
+  
+}
